@@ -13,6 +13,6 @@ I'm a **Software Engineer** based in Frankfurt, Germany 🇩🇪. At 26 years ol
 - Expanding expertise in performance and security testing.
 
 ## 💻 Tech Stack
-- **Programming Languages**: JavaScript, TypeScript, Python.  
+- **Programming Languages**: JavaScript, TypeScript, Java, .Net.  
 - **Testing Tools**: Playwright, Selenide, Postman 
 - **DevOps**: Podman, Jenkins, Git
