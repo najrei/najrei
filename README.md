@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Software Engineer** based in Frankfurt, Germany 🇩🇪. At 26 years old, I'm passionate about crafting high-quality software and have a deep interest in **software testing**.
+I'm a **System Engineer** based in Frankfurt, Germany 🇩🇪. At 26 years old, I'm passionate about crafting high-quality software and have a deep interest in **software testing**.
 
 ## 🔍 My Focus
 - 🛠️ Specializing in **automated testing** with [Playwright](https://playwright.dev), ensuring robust and reliable applications.  
